@@ -1,0 +1,30 @@
+{
+   "manifest_version": 2,
+
+   "name": "Github Window",
+   "short_name": "Github Windows",
+   "description": "App de chrome para github",
+   "version": "1.0.0",
+   "icons": {
+      "16": "assets/GitHub-Mark-32px.png",
+      "32": "assets/GitHub-Mark-64px.png.png",
+      "128": "assets/GitHub-Mark-120px-plus.png"
+   },
+
+   "minimum_chrome_version": "40",
+   "permissions": [
+      "webview",
+      "storage",
+      "<all_urls>",
+      "contextMenus",
+      "notifications",
+      "unlimitedStorage",
+      "app.window.fullscreen.overrideEsc"
+   ],
+
+   "app": {
+      "background": {
+         "scripts": [ "background.js" ]
+      }
+   }
+}
