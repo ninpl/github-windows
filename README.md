@@ -1,5 +1,5 @@
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/github-windows.svg)](https://github.com/MoonAntonio/github-windows/issues)
-[![UnityVersion](https://img.shields.io/badge/Extension-Chrome-brightgreen.svg)](https://chrome.google.com/webstore/category/extensions?hl=es)
+[![Extension](https://img.shields.io/badge/Extension-Chrome-brightgreen.svg)](https://chrome.google.com/webstore/category/extensions?hl=es)
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/github-windows)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/github-windows/master/LICENSE)
 
