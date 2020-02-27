@@ -3,7 +3,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/github-windows/master/LICENSE)
 
 # Github Windows
-App de chrome para github, con el que se puede abrir Github y tenerlo en un acceso directo desde el escritorio o desde la barra de tareas.
+App de chrome para github, con el que se puede abrir Github y tenerlo en un acceso directo desde el escritorio o desde la barra de tareas como aplicacion.
 
 ---
 
